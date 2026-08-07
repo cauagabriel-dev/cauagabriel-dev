@@ -81,3 +81,39 @@ Busco evoluir constantemente, aprendendo novas tecnologias e transformando ideia
 </a>
 
 </div>
+---
+
+# ⚡ TECH STACK
+
+<div align="center">
+
+## 💻 Linguagens
+
+<img src="https://skillicons.dev/icons?i=js,html,css" />
+
+<br><br>
+
+## ⚙ Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs" />
+
+<br><br>
+
+## 🛠 Ferramentas
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+<br><br>
+
+## 🗄 Banco de Dados
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+
+</div>
+
+
+---
+
+<div align="center">
+
+</div>
