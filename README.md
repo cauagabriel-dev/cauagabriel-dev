@@ -107,8 +107,6 @@ Busco evoluir constantemente, aprendendo novas tecnologias e transformando ideia
 
 ## 🗄 Banco de Dados
 
-## 🗄 Banco de Dados
-
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=mysql" />
