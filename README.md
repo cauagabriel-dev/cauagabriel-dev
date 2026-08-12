@@ -107,7 +107,16 @@ Busco evoluir constantemente, aprendendo novas tecnologias e transformando ideia
 
 ## 🗄 Banco de Dados
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+## 🗄 Banco de Dados
+
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+<br>
+
+📚 Atualmente estudando:
+- Modelagem de dados
+- SQL
+- Criação de tabelas
 
 </div>
 
