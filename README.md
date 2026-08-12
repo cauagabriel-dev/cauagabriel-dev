@@ -103,9 +103,7 @@ Busco evoluir constantemente, aprendendo novas tecnologias e transformando ideia
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
-<br><br>
-
-## 🗄 Banco de Dados
+<br>
 
 ## 🗄 Banco de Dados
 
@@ -117,6 +115,79 @@ Busco evoluir constantemente, aprendendo novas tecnologias e transformando ideia
 - Modelagem de dados
 - SQL
 - Criação de tabelas
+- Relacionamento
+
+</div>
+
+---
+
+# 🚀 PROJETOS EM DESTAQUE
+
+<div align="center">
+
+### 💻 Programação Back-End
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### ⚙️ Programação Back-End
+
+Repositório dedicado aos estudos e atividades da UC de **Programação Back-End** durante minha formação técnica no SENAI.
+
+**Tecnologias:**
+
+`Node.js` `npm` `JavaScript`
+
+**Conteúdos:**
+
+- Ambiente Node.js
+- Programação Orientada a Objetos
+- Classes e métodos
+- Encapsulamento
+- Desenvolvimento Back-End
+
+<br>
+
+<a href="https://github.com/cauagabriel-dev/programacao-backend">
+<img src="https://img.shields.io/badge/VER%20PROJETO-00E5FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### 📚 API de Gestão da Livraria
+
+Projeto do semestre desenvolvido em grupo como parte da formação em Desenvolvimento de Sistemas.
+
+**Foco:**
+
+`API` `Back-End` `Node.js`
+
+**Status:**
+
+🟡 Em desenvolvimento
+
+<br>
+
+> Projeto acadêmico desenvolvido durante minha formação técnica.
+
+<br>
+
+<img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-7C4DFF?style=for-the-badge"/>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+> 🚧 **Mais projetos serão adicionados conforme minha evolução no desenvolvimento.**
 
 </div>
 
