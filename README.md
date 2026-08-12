@@ -107,15 +107,21 @@ Busco evoluir constantemente, aprendendo novas tecnologias e transformando ideia
 
 ## 🗄 Banco de Dados
 
+## 🗄 Banco de Dados
+
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=mysql" />
 
-<br>
+<br><br>
 
-📚 Atualmente estudando:
-- Modelagem de dados
-- SQL
-- Criação de tabelas
-- Relacionamento
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 📚 Atualmente estudando
+
+`Modelagem de dados` • `SQL` • `Criação de tabelas` • `Relacionamentos`
+
+</div>
 
 </div>
 
@@ -191,6 +197,48 @@ Projeto do semestre desenvolvido em grupo como parte da formação em Desenvolvi
 
 </div>
 
+---
+
+# 🤖 JARVIS SYSTEM
+
+<div align="center">
+
+```text
+╭────────────────────────────────────────────────────╮
+│                                                    │
+│          CAUÃ GABRIEL — DEVELOPMENT CORE          │
+│                                                    │
+├────────────────────────────────────────────────────┤
+│                                                    │
+│  SYSTEM STATUS       :  ONLINE  ●                 │
+│  DEVELOPER MODE      :  ACTIVE                    │
+│  LEARNING MODE       :  ACTIVE                    │
+│                                                    │
+├────────────────────────────────────────────────────┤
+│                                                    │
+│  CURRENT FOCUS                                      │
+│                                                    │
+│  ├─ JavaScript                                     │
+│  ├─ Node.js / Back-End                             │
+│  ├─ Git & GitHub                                   │
+│  └─ MySQL                                          │
+│                                                    │
+├────────────────────────────────────────────────────┤
+│                                                    │
+│  NEXT OBJECTIVES                                   │
+│                                                    │
+│  ├─ Desenvolver APIs                               │
+│  ├─ Aprofundar Back-End                            │
+│  ├─ Evoluir em Banco de Dados                      │
+│  └─ Construir novos projetos                       │
+│                                                    │
+├────────────────────────────────────────────────────┤
+│                                                    │
+│  SYSTEM MESSAGE                                    │
+│                                                    │
+│  > Learn. Build. Improve. Repeat.                  │
+│                                                    │
+╰────────────────────────────────────────────────────╯
 
 ---
 
