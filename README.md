@@ -9,11 +9,9 @@
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=cauagabriel-dev&style=for-the-badge&color=00E5FF"/>
-
 <img src="https://img.shields.io/github/followers/cauagabriel-dev?style=for-the-badge&color=00E5FF&label=Seguidores"/>
 
 </div>
-
 
 ---
 
@@ -21,16 +19,15 @@
 
 ## ⚡ SYSTEM STATUS
 
+`ONLINE` • `DEVELOPER MODE: ACTIVE` • `LEARNING MODE: ACTIVE`
 
 </div>
 
-
 ---
 
-# 👨‍💻 Sobre Mim
+# 👨‍💻 SOBRE MIM
 
 <img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
 
 Olá! Eu sou **Cauã Gabriel**.
 
@@ -40,80 +37,67 @@ Atualmente estou desenvolvendo minhas habilidades no ecossistema **JavaScript**,
 
 Busco evoluir constantemente, aprendendo novas tecnologias e transformando ideias em projetos funcionais.
 
-
 <br clear="right"/>
 
-
 ---
+
+# 🚀 MINHA MISSÃO
 
 <div align="center">
 
-### 🚀 Minha missão
-
+> **"Transformar conhecimento em projetos reais."**
+> 
+> *Foco contínuo em aprendizado, prática constante e evolução no desenvolvimento de soluções eficientes.*
 
 </div>
 
-
 ---
 
-## 🌐 Conecte-se comigo
+# 🌐 CONECTE-SE COMIGO
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/cau%C3%A3-gabriel-a657b43aa/">
-
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-
 <a href="https://github.com/cauagabriel-dev">
-
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-
 <a href="https://instagram.com/cauaoliveira_ofc">
-
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </div>
+
 ---
 
 # ⚡ TECH STACK
 
 <div align="center">
 
-## 💻 Linguagens
-
+### 💻 Linguagens
 <img src="https://skillicons.dev/icons?i=js,html,css" />
 
-<br><br>
+<br>
 
-## ⚙ Backend
-
+### ⚙️ Backend
 <img src="https://skillicons.dev/icons?i=nodejs" />
 
-<br><br>
+<br>
 
-## 🛠 Ferramentas
-
+### 🛠️ Ferramentas
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 <br>
 
-## 🗄 Banco de Dados
-
-<div align="center">
-
+### 🗄️ Banco de Dados
 <img src="https://skillicons.dev/icons?i=mysql" />
 
-<br><br>
+</div>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<br>
+
+<div align="center">
 
 ### 📚 Atualmente estudando
 
@@ -121,32 +105,21 @@ Busco evoluir constantemente, aprendendo novas tecnologias e transformando ideia
 
 </div>
 
-</div>
-
 ---
 
 # 🚀 PROJETOS EM DESTAQUE
 
-<div align="center">
-
-### 💻 Programação Back-End
-
-</div>
-
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ⚙️ Programação Back-End
 
 Repositório dedicado aos estudos e atividades da UC de **Programação Back-End** durante minha formação técnica no SENAI.
 
-**Tecnologias:**
-
-`Node.js` `npm` `JavaScript`
+**Tecnologias:** `Node.js` `npm` `JavaScript`
 
 **Conteúdos:**
-
 - Ambiente Node.js
 - Programação Orientada a Objetos
 - Classes e métodos
@@ -156,24 +129,20 @@ Repositório dedicado aos estudos e atividades da UC de **Programação Back-End
 <br>
 
 <a href="https://github.com/cauagabriel-dev/programacao-backend">
-<img src="https://img.shields.io/badge/VER%20PROJETO-00E5FF?style=for-the-badge&logo=github&logoColor=black"/>
+  <img src="https://img.shields.io/badge/VER%20PROJETO-00E5FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📚 API de Gestão da Livraria
 
 Projeto do semestre desenvolvido em grupo como parte da formação em Desenvolvimento de Sistemas.
 
-**Foco:**
+**Foco:** `API` `Back-End` `Node.js`
 
-`API` `Back-End` `Node.js`
-
-**Status:**
-
-🟡 Em desenvolvimento
+**Status:** 🟡 Em desenvolvimento
 
 <br>
 
@@ -197,30 +166,24 @@ Projeto do semestre desenvolvido em grupo como parte da formação em Desenvolvi
 
 ---
 
----
-
 # 🤖 JARVIS SYSTEM
 
 <div align="center">
 
-<table>
-<tr>
-<td>
-
 <pre>
 ╭────────────────────────────────────────────────────╮
 │                                                    │
-│          CAUÃ GABRIEL — DEVELOPMENT CORE          │
+│          CAUÃ GABRIEL — DEVELOPMENT CORE           │
 │                                                    │
 ├────────────────────────────────────────────────────┤
 │                                                    │
-│  SYSTEM STATUS       :  ONLINE  ●                 │
-│  DEVELOPER MODE      :  ACTIVE                    │
-│  LEARNING MODE       :  ACTIVE                    │
+│  SYSTEM STATUS       : ONLINE  ●                   │
+│  DEVELOPER MODE      : ACTIVE                      │
+│  LEARNING MODE       : ACTIVE                      │
 │                                                    │
 ├────────────────────────────────────────────────────┤
 │                                                    │
-│  CURRENT FOCUS                                      │
+│  CURRENT FOCUS                                     │
 │                                                    │
 │  ├─ JavaScript                                     │
 │  ├─ Node.js / Back-End                             │
@@ -243,36 +206,7 @@ Projeto do semestre desenvolvido em grupo como parte da formação em Desenvolvi
 │  > Learn. Build. Improve. Repeat.                  │
 │                                                    │
 ╰────────────────────────────────────────────────────╯
-
-<br>
-
-<h2 align="center">🐍 CONTRIBUTION MATRIX</h2>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cauagabriel-dev/cauagabriel-dev/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cauagabriel-dev/cauagabriel-dev/output/github-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/cauagabriel-dev/cauagabriel-dev/output/github-snake.svg">
-  </picture>
-</p>
-
-<p align="center">
-  <sub>⚡ CONTRIBUTION SYSTEM — ONLINE</sub>
-</p>
-
 </pre>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<h3>⚡ CURRENT MISSION</h3>
-
-<p>
-<strong>Transformar conhecimento em projetos reais.</strong>
-</p>
 
 </div>
 
@@ -283,24 +217,33 @@ Projeto do semestre desenvolvido em grupo como parte da formação em Desenvolvi
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cauagabriel-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauagabriel-dev&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <img width="70%" src="https://streak-stats.demolab.com?user=cauagabriel-dev&theme=tokyonight&hide_border=true"/>
 
+<br><br>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=cauagabriel-dev&theme=tokyo-night&hide_border=true&area=true"/>
+
 </div>
 
-<br>
+---
+
+# 🐍 CONTRIBUTION MATRIX
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=cauagabriel-dev&theme=tokyo-night&hide_border=true&area=true"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cauagabriel-dev/cauagabriel-dev/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cauagabriel-dev/cauagabriel-dev/output/github-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/cauagabriel-dev/cauagabriel-dev/output/github-snake.svg">
+</picture>
+
+<br><br>
+
+<sub>⚡ CONTRIBUTION SYSTEM — ONLINE</sub>
 
 </div>
 
@@ -311,9 +254,5 @@ Projeto do semestre desenvolvido em grupo como parte da formação em Desenvolvi
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=cauagabriel-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" />
-
-</div>
-
-<div align="center">
 
 </div>
