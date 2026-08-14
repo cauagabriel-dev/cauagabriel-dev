@@ -197,11 +197,17 @@ Projeto do semestre desenvolvido em grupo como parte da formação em Desenvolvi
 
 ---
 
+---
+
 # 🤖 JARVIS SYSTEM
 
 <div align="center">
 
-```text
+<table>
+<tr>
+<td>
+
+<pre>
 ╭────────────────────────────────────────────────────╮
 │                                                    │
 │          CAUÃ GABRIEL — DEVELOPMENT CORE          │
@@ -237,8 +243,59 @@ Projeto do semestre desenvolvido em grupo como parte da formação em Desenvolvi
 │  > Learn. Build. Improve. Repeat.                  │
 │                                                    │
 ╰────────────────────────────────────────────────────╯
+</pre>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<h3>⚡ CURRENT MISSION</h3>
+
+<p>
+<strong>Transformar conhecimento em projetos reais.</strong>
+</p>
+
+</div>
 
 ---
+
+# 📊 GITHUB ANALYTICS
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cauagabriel-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauagabriel-dev&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=cauagabriel-dev&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=cauagabriel-dev&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+# 🏆 GITHUB TROPHIES
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=cauagabriel-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" />
+
+</div>
 
 <div align="center">
 
