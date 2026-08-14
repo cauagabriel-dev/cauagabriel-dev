@@ -46,8 +46,8 @@ Busco evoluir constantemente, aprendendo novas tecnologias e transformando ideia
 <div align="center">
 
 > **"Transformar conhecimento em projetos reais."**
-> 
-> *Foco contínuo em aprendizado, prática constante e evolução no desenvolvimento de soluções eficientes.*
+
+*Foco contínuo em aprendizado, prática constante e evolução no desenvolvimento de soluções eficientes.*
 
 </div>
 
@@ -58,13 +58,15 @@ Busco evoluir constantemente, aprendendo novas tecnologias e transformando ideia
 <div align="center">
 
 <a href="https://www.linkedin.com/in/cau%C3%A3-gabriel-a657b43aa/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="https://github.com/cauagabriel-dev">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 <a href="https://instagram.com/cauaoliveira_ofc">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </div>
@@ -76,22 +78,26 @@ Busco evoluir constantemente, aprendendo novas tecnologias e transformando ideia
 <div align="center">
 
 ### 💻 Linguagens
-<img src="https://skillicons.dev/icons?i=js,html,css" />
 
-<br>
+<img src="https://skillicons.dev/icons?i=js,html,css"/>
+
+<br><br>
 
 ### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs" />
 
-<br>
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
+<br><br>
 
 ### 🛠️ Ferramentas
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
-<br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+
+<br><br>
 
 ### 🗄️ Banco de Dados
-<img src="https://skillicons.dev/icons?i=mysql" />
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
 
 </div>
 
@@ -111,15 +117,19 @@ Busco evoluir constantemente, aprendendo novas tecnologias e transformando ideia
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ### ⚙️ Programação Back-End
 
 Repositório dedicado aos estudos e atividades da UC de **Programação Back-End** durante minha formação técnica no SENAI.
 
-**Tecnologias:** `Node.js` `npm` `JavaScript`
+**Tecnologias**
 
-**Conteúdos:**
+`Node.js` `npm` `JavaScript`
+
+**Conteúdos**
+
 - Ambiente Node.js
 - Programação Orientada a Objetos
 - Classes e métodos
@@ -129,7 +139,7 @@ Repositório dedicado aos estudos e atividades da UC de **Programação Back-End
 <br>
 
 <a href="https://github.com/cauagabriel-dev/programacao-backend">
-  <img src="https://img.shields.io/badge/VER%20PROJETO-00E5FF?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/VER%20PROJETO-00E5FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 </td>
@@ -140,9 +150,13 @@ Repositório dedicado aos estudos e atividades da UC de **Programação Back-End
 
 Projeto do semestre desenvolvido em grupo como parte da formação em Desenvolvimento de Sistemas.
 
-**Foco:** `API` `Back-End` `Node.js`
+**Foco**
 
-**Status:** 🟡 Em desenvolvimento
+`API` `Back-End` `Node.js`
+
+**Status**
+
+🟡 Em desenvolvimento
 
 <br>
 
@@ -153,6 +167,7 @@ Projeto do semestre desenvolvido em grupo como parte da formação em Desenvolvi
 <img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-7C4DFF?style=for-the-badge"/>
 
 </td>
+
 </tr>
 </table>
 
@@ -177,13 +192,13 @@ Projeto do semestre desenvolvido em grupo como parte da formação em Desenvolvi
 │                                                    │
 ├────────────────────────────────────────────────────┤
 │                                                    │
-│  SYSTEM STATUS       : ONLINE  ●                   │
-│  DEVELOPER MODE      : ACTIVE                      │
-│  LEARNING MODE       : ACTIVE                      │
+│  SYSTEM STATUS       : ONLINE  ●                  │
+│  DEVELOPER MODE      : ACTIVE                     │
+│  LEARNING MODE       : ACTIVE                     │
 │                                                    │
 ├────────────────────────────────────────────────────┤
 │                                                    │
-│  CURRENT FOCUS                                     │
+│  CURRENT FOCUS                                      │
 │                                                    │
 │  ├─ JavaScript                                     │
 │  ├─ Node.js / Back-End                             │
@@ -217,6 +232,7 @@ Projeto do semestre desenvolvido em grupo como parte da formação em Desenvolvi
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cauagabriel-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauagabriel-dev&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br><br>
@@ -253,6 +269,20 @@ Projeto do semestre desenvolvido em grupo como parte da formação em Desenvolvi
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=cauagabriel-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=cauagabriel-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ SYSTEM ONLINE
+
+`Learn` • `Build` • `Improve` • `Repeat`
+
+<br>
+
+<sub>© Cauã Gabriel • Desenvolvedor Full Stack | Estudante de Desenvolvimento de Sistemas</sub>
 
 </div>
